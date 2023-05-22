@@ -5,4 +5,4 @@ Using Tableau's interactive dashboards, users can explore the Airbnb dataset and
 
 The project includes detailed documentation on the dataset, the analysis, and the methodology used. The project code is available on GitHub and can be easily replicated or modified to fit different datasets or business cases. The project is suitable for anyone interested in real estate investment, property management, or data analysis.
 
-Overall, this Tableau project provides a comprehensive analysis of the Airbnb dataset to help investors and property buyers identify the best location to buy a house for rental purposes.
+This Tableau project provides a comprehensive analysis of the Airbnb dataset to help investors and property buyers identify the best location to buy a house for rental purposes.
